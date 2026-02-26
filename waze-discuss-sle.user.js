@@ -8,6 +8,7 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=waze.com
 // @grant        GM_xmlhttpRequest
 // @contributionURL https://github.com/WazeDev/Thank-The-Authors
+// @license      MIT
 // ==/UserScript==
 
 (function() {
